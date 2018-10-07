@@ -1,4 +1,4 @@
 #!/bin/sh
 git add --all
-git commit -m "Fuck XZF"
+git commit -m "Van♂Dark"
 git push
