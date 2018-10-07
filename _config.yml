@@ -21,7 +21,7 @@ footer:
 author: '陈昊泽'
 nickname: 'Chen.HZ'
 bio: 'OI && ACM，简单乐观爱创造'
-avatar: '//baidu.com/favicon.ico'
+avatar: 'https://www.luogu.org/favicon.ico'
 
 # Search
 search: true
