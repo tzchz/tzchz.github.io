@@ -21,7 +21,7 @@ footer:
 author: '陈昊泽'
 nickname: 'Chen.HZ'
 bio: 'OI && ACM，简单乐观爱创造'
-avatar: 'https://www.luogu.org/favicon.ico'
+avatar: 'https://i.loli.net/2018/10/07/5bb9b0dbb33be.png'
 
 # Search
 search: true
@@ -51,6 +51,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   github: '//github.com/tzchz/'
+  email: 'mailto:welcometzchz@outlook.com'
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
